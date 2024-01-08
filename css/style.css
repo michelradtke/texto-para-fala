@@ -25,7 +25,7 @@ body {
     margin: 0 auto;
     background: var(--background);
     font: 'Mulish';
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     color: var(--fontColor);
     display: flex;
@@ -49,13 +49,13 @@ textarea {
     margin-bottom: 10px;
     border-radius: 10px;
     font-family: 'Dancing Script';
-    font-size: 22px;
+    font-size: 18px;
   }
 
   .inicio {
     margin-top: 80px;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     color: var(--fontDestaque);
   }
 
