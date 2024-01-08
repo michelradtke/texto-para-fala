@@ -39,6 +39,7 @@ main {
     background: var(--background-div);
     text-align: center;
     border-radius: 10px;
+    box-shadow: 15px 15px 30px 10px var(--fontDestaque);
 }
 
 textarea {
@@ -49,6 +50,17 @@ textarea {
     border-radius: 10px;
     font-family: 'Dancing Script';
     font-size: 22px;
+  }
+
+  .inicio {
+    margin-top: 80px;
+    text-align: center;
+    font-size: 18px;
+    color: var(--fontDestaque);
+  }
+
+  .inicio p {
+    margin-top: 10px;
   }
 
   #botao {
